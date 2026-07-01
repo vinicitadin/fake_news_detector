@@ -143,12 +143,6 @@ Clone o projeto:
 git clone https://github.com/vinicitadin/fake_news_detector
 ```
 
-Entre na pasta:
-
-```bash
-cd FakeNewsClassifier
-```
-
 Instale as dependências:
 
 ```bash
