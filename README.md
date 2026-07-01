@@ -140,7 +140,7 @@ O desempenho do modelo é avaliado utilizando:
 Clone o projeto:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/vinicitadin/fake_news_detector
 ```
 
 Entre na pasta:
